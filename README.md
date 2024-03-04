@@ -1,1 +1,1 @@
-# Pitt-CS1656
+# Pitt-CS1656-Labs
